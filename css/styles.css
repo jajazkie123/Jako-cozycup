@@ -141,19 +141,6 @@ header {
     margin-bottom: 40px;
 }
 
-.cta-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #4c3c32;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.cta-button:hover {
-    background-color: #7e685b;
-}
-
 .menu {
     padding: 100px 0;
     text-align: center;
