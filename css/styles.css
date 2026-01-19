@@ -183,6 +183,12 @@ header {
     padding: 80px 20px;
     background-color: #f9f6f3;
 }
+.contact h2 {
+    text-align: center;
+    font-size: 2.2rem;
+    color: #4c3c32;
+    margin-bottom: 40px;
+}
 
 .contact-grid {
     display: grid;
