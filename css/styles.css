@@ -151,21 +151,31 @@ header {
     margin-bottom: 20px;
 }
 
+/* About Section */
 .about {
-    padding: 100px 0;
+    padding: 80px 20px;
     text-align: center;
-    background-color: #ede4d6;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .about h2 {
-    font-size: 30px;
+    color: #4c3c32;
+    font-size: 2.2rem;
     margin-bottom: 20px;
 }
 
-.about p {
-    font-size: 18px;
-    max-width: 800px;
-    margin: 0 auto;
+.about-features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.feature strong {
+    color: #c8a27c;
+    display: block;
+    margin-bottom: 5px;
 }
 
 .contact {
