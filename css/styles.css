@@ -204,12 +204,28 @@ header {
     border-bottom: 1px solid #ddd;
 }
 
-footer {
+/* Footer */
+.main-footer {
     background-color: #4c3c32;
-    color: white;
+    color: #fdfaf7;
+    padding: 40px 20px;
     text-align: center;
-    padding: 20px 0;
 }
+
+.social-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0 0 0;
+}
+
+.social-links a {
+    color: #c8a27c;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
 
 .menu-section {
     padding: 60px 20px;
