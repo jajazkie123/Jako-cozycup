@@ -52,11 +52,13 @@ nav a:hover {
 }
 
 .hero h1 {
+    color: black;
     font-size: 36px;
     margin-bottom: 20px;
 }
 
 .hero p {
+    color: black;
     font-size: 18px;
     margin-bottom: 40px;
 }
