@@ -34,21 +34,21 @@ This is our socials, if you want to contact us, this is our social media account
 
 ---
 # Authors    
-<img src="img/jaja.png" alt= "Jaja Profile" style="width: 150px; border-radius: 50%">
+<a href="https://github.com/jajazkie123"><img src="img/jaja.png" alt= "Jaja Profile" style="width: 150px; border-radius: 50%"></a>
 
 **Jazchiel Angelou Gomez**  
 **202380079@psu.palawan.edu.ph**
 
 
-<img src="img/miko.png" alt= "Miko Profile" style="width: 150px; border-radius: 50%">
+<a href="https://github.com/Irigitigit"><img src="img/miko.png" alt= "Miko Profile" style="width: 150px; border-radius: 50%"></a>
 
 **Miko Patindol**  
 **202380039@psu.palawan.edu.ph**
 
 
-[![jaja](img/Facebook.png)](facebook.com/jajazkie123)   
+<a href="https://facebook.com/jajazkie123" ><img src="img/Facebook.png" style="width: 100px; border-radius: 50%"></a>   
 **Jazchiel Angelou Gomez - Facebook Account**
 
 
-[![miko](img/Facebook.png)](facebook.com/miko.patindol)   
+<a href="https://facebook.com/miko.patindol" ><img src="img/Facebook.png" style="width: 100px; border-radius: 50%"></a>    
 **Miko Patindol - Facebook Account**
